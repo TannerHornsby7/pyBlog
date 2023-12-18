@@ -1,0 +1,5 @@
+nbconvert
+nbformat
+psycopg2
+pymongo[srv]
+dotenv
